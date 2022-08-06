@@ -70,10 +70,13 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+docs/
+docs-AHNCNY/
 
 # PyBuilder
 .pybuilder/
 target/
+.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
